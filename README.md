@@ -1,2 +1,2 @@
 # hello-world
-Hellow World Repository
+Hello World Repository
